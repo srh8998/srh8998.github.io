@@ -4,7 +4,7 @@ title: Restaurants
 permalink: /restaurants/
 ---
 
-# Best Restaurants
+## Best Restaurants
 
 Here are a few of my favorite places to eat.
 
