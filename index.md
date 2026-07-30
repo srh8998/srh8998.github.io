@@ -7,6 +7,12 @@ title: Best Local Spots
 
 Welcome to **Best Local Spots**.
 
-This website highlights some of my favorite places to visit in my Florida.
+Discover my favorite places around town.
 
-Use the pages above to discover restaurants, parks, coffee shops, entertainment, and hidden gems.
+## Explore
+
+- [ Restaurants](/restaurants/)
+- [ Coffee Shops](/coffee/)
+- [ Parks](/parks/)
+- [ Entertainment](/entertainment/)
+- [ Hidden Gems](/hidden-gems/)
