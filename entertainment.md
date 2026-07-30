@@ -4,7 +4,7 @@ title: Entertainment
 permalink: /entertainment/
 ---
 
-# Entertainment
+## Entertainment
 
 Some fun things to visit florida often:
 
