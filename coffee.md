@@ -4,7 +4,7 @@ title: Coffee Shops
 permalink: /coffee/
 ---
 
-# Coffee Shops
+## Coffee Shops
 
 Some of the best coffee shops in the area include:
 
