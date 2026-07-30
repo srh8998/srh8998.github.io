@@ -4,7 +4,7 @@ title: Parks
 permalink: /parks/
 ---
 
-# Parks
+## Parks
 
 Some beautiful parks worth visiting include:
 
