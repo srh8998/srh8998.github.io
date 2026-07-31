@@ -3,7 +3,7 @@ layout: home
 title: Best Local Spots
 ---
 
-# Welcome
+## Welcome
 
 Welcome to **Best Local Spots**.
 
