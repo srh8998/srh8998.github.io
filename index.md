@@ -5,11 +5,11 @@ title: Best Local Spots
 
 ## Welcome
 
-Welcome to ###Best Local Spots.
+Welcome to Best Local Spots.
 
 Discover my favorite places around town.
 
-#### Explore
+### Explore
 
 - [Restaurants](/restaurants/)
 - [Coffee Shops](/coffee/)
