@@ -4,12 +4,12 @@ title: Entertainment
 permalink: /entertainment/
 ---
 
-## Entertainment
+# Entertainment
 
 Some fun things to visit florida often:
 
 - concerts
-- sporting events 
+- sporting events
 - comedy shows
 - conventions in one of the worlds largest convention sites
 
