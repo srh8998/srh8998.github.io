@@ -13,4 +13,4 @@ Here are a few of my favorite places to eat.
 - Kres
 - Hawkers
 
-These restaurants offer great food, friendly service, and a welcoming atmosphere.
+These great restaurants offer great food, friendly service, and a welcoming atmosphere.
