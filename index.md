@@ -9,10 +9,10 @@ Welcome to **Best Local Spots**.
 
 Discover my favorite places around town.
 
-## Explore
+### Explore
 
-- [ Restaurants](/restaurants/)
-- [ Coffee Shops](/coffee/)
-- [ Parks](/parks/)
-- [ Entertainment](/entertainment/)
-- [ Hidden Gems](/hidden-gems/)
+- [Restaurants](/restaurants/)
+- [Coffee Shops](/coffee/)
+- [Parks](/parks/)
+- [Entertainment](/entertainment/)
+- [Hidden Gems](/hidden-gems/)
